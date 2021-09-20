@@ -4,6 +4,9 @@
 
 This repo is a personal collection of notes designed to act as a study guide for my interview preparation
 
+## Resources
+
+
 ## Table of Contents
 
 * Problem Solving Strategies
@@ -15,10 +18,10 @@ This repo is a personal collection of notes designed to act as a study guide for
 ---
 ### Problem Solving Strategies
 1) Understand the problem
-2) Explore examples
-3) Break it down
-4) Solve/Simplify
-5) Look back and refactor
+3) Explore examples
+4) Break it down
+5) Solve/Simplify
+6) Look back and refactor
 
 ---
 
