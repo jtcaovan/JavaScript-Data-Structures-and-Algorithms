@@ -41,11 +41,24 @@ This repo is a personal collection of notes designed to act as a study guide for
 ---
 
 ### Big O Notation
+Big O Notation is the mtric we use to describe and compare the efficiency of algorithms.
+
 *Time Complexity*
 
 *Space Complexity*
 
+---
 
+### Core Data Structures, Algorithms, and Concepts
+
+| Data Structures | Algorithms | Concepts |
+| ----------- | ----------- | ----------- |
+| Linked Lists | Breadth-First Search | Bit Manipulation |
+| Trees, Tries and Graphs | Depth-First Search | Memory (Stack vs. Heap) |
+| Stacks & Queues | Binary Search | Recursion |
+| Heaps | Merge Sort | Dynamic Programming |
+| Vectors / ArrayLists | Quick Sort | Big O Time & Space |
+| Hash Tables |  | |
 
 
 
