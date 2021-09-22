@@ -51,7 +51,7 @@ Big O Notation is the mtric we use to describe and compare the efficiency of alg
 
 *Space Complexity*
 
-| Fastest to Slowest | |
+| Common Big O Runtimes | Fastest to Slowest |
 | ----------- | ----------- |
 | O(log n) | Log time (ex. binary search) | 
 | O(n) | Linear (ex. simple search) | 
