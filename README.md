@@ -51,6 +51,15 @@ Big O Notation is the mtric we use to describe and compare the efficiency of alg
 
 *Space Complexity*
 
+| Fastest to Slowest | |
+| ----------- | ----------- |
+| O(log n) | Log time (ex. binary search) | 
+| O(n) | Linear (ex. simple search) | 
+| O(n * log n) | fast sorting algo (ex. quicksort) | 
+| O(n^2) | slow sorting algo (ex. selection sort) | 
+| O(n!) | Really slow n factorial (ex. Traveling Salesman) | 
+
+
 ---
 
 ### Core Data Structures, Algorithms, and Concepts
