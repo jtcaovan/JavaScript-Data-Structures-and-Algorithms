@@ -59,6 +59,8 @@ Big O Notation is the mtric we use to describe and compare the efficiency of alg
 | O(n^2) | slow sorting algo (ex. selection sort) | 
 | O(n!) | Really slow n factorial (ex. Traveling Salesman) | 
 
+![Screen Shot 2021-09-24 at 11 16 10 AM](https://user-images.githubusercontent.com/61437879/134721965-611dbf1a-d339-4bbd-8195-b59a11df6986.png)
+
 
 ---
 
